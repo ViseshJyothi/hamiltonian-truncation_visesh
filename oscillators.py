@@ -7,7 +7,7 @@
 ######################################################
 
 import scipy
-from scipy import pi
+from numpy import pi
 from numpy import product, sqrt
 from operator import attrgetter
 from statefuncs import omega, State, NotInBasis
