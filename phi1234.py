@@ -7,8 +7,9 @@
 ######################################################
 
 import scipy
-from scipy import pi
 import numpy as np
+from numpy import pi
+
 import scipy.sparse.linalg
 import scipy.sparse
 import scipy.interpolate
